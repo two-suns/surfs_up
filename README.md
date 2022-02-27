@@ -15,3 +15,6 @@ W. Avy likes your analysis, but he wants more information about temperature tren
   * The distribution is more symmetrical again with the median only .04° less than the mean.
 
 ## Summary
+The results of the temperature analysis show that the temperatures are very consistent throughout the months of June and December. The majority of values are around the mean without any extreme outliers.  With only an approximately 3° drop in temperature in December, it appears the temperatures should be fairly consistent throughout the year.  This means the surf and ice cream shop should perform well year-round.  
+
+However, temperature is not the only thing that would cause a drop in sales.  Another query that should be performed is for the amount of precipitation measured.  If it is raining for most of a month, it likely would not matter how nice the temperature is. Finally, another query that could be performed is to find the weather station with the most observations to ensure enough data points are being used for the analysis.  
